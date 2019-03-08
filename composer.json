@@ -1,0 +1,13 @@
+{
+    "name": "flexvisionbe/belgian-structured-communication",
+    "description": "Generate BelgianStructuredCommunication and check",
+    "type": "library",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Mickael Monsieur",
+            "email": "mm@flexvision.be"
+        }
+    ],
+    "require": {}
+}
